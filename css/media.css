@@ -1,0 +1,290 @@
+@media all and (max-width: 500px) {
+
+
+
+ header {
+    height: 80px;
+    padding: 25px 30px;
+    box-sizing: border-box;
+}
+
+header .header_logo {
+    width: 100px;
+}
+
+header .header_gnb {
+    display: none;
+}
+
+.menubar {
+    display: block;
+    width: 24px;
+    margin-top: 2px;
+}
+  /* header */
+
+  .sec_1 {
+    height: 90vh;
+    background-size: fill;
+    background-position: center;
+    padding: 0;
+  }
+
+  .main_title {
+    padding-left: 50px;
+    top: 60%;
+  }
+
+  .main_title h2 {
+    font-size: 54px;
+  }
+
+  .main_title h4 {
+    font-size: 36px;
+  }
+    /* sec_1 */
+
+    .sec_2 {
+        padding: 80px 20px 0px 20px;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        height: 900px;
+    }
+
+    .sec_2 .sec_2_mainbg {
+        width: 100%;
+        height: 380px;
+        background-size: cover;
+        background-position: -20px 0;
+    }
+
+    .long {
+        width: 100%;
+        height: 380px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .sec_2_text {
+        margin-left: 10px;
+        top: 7%;
+    }
+
+    /* sec_2 */
+
+    .sec_3 {
+        flex-direction: column-reverse;
+        padding: 80px 20px 0px 20px;
+        height: 1000px;
+    }
+
+    .wide {
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .sec_3_text {
+        top: 0%;
+        margin-left: 10px;
+    }
+    /* sec_3 */
+
+    .sec_4 {
+        flex-direction: column;
+        padding: 80px 20px 80px 20px;
+        height: 1000px;
+    }
+
+    .sec_4_text {
+        margin-left: 10px;
+        top: 8%;
+    }
+    /* sec_4 */
+
+    .sec_5 {
+        flex-direction: column;
+        padding: 80px 20px;
+        background-size: cover;
+    }
+
+    .sec_5_container {
+        width: 100%;
+        height: 300px;
+    }
+
+    .left {
+        background-position: -100px 30px;
+        background-size: cover;
+    }
+
+    .right {
+        background-size: cover;
+        background-position: -40px 0;
+    }
+
+    .sec_5_text {
+        margin: 0 auto;
+        text-align: center;
+        top: 16%;
+    }
+
+    .sec_5_sub_title {
+        font-size: 22px;
+    }
+
+    .sec_5_main_title {
+        font-size: 60px;
+    }
+
+    .sec_5_sub_text {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .sec_5_view {
+        margin: 0 auto;
+    }
+    /* sec_5 */
+
+    .sec_6 {
+        padding: 100px 20px;
+        height: 1650px;
+    }
+
+    
+
+    .sec_6_main_title {
+        font-size: 36px;
+    }
+
+    .sec_6_container {
+        flex-direction: column;
+        height: 1300px;
+    }
+
+    .sec_6_nav {
+        width: 100%;
+        filter: none;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 380px;
+        color: #fff;
+    }
+
+    .sec_6_nav_title {
+        font-size: 24px;
+        top: 30px;
+        left: 30px;
+        color: #fff;
+        opacity: 1;
+    }
+
+    .sec_6_nav_sub {
+        font-size: 12px;
+        left: 30px;
+        bottom: 20px;
+        opacity: 1;
+        color: #fff;
+    }
+    /* sec_6 */
+
+    footer {
+        padding: 50px 20px;
+        height: 550px;
+    }
+
+    .footer_top {
+        flex-direction: column;
+        height: 110px;
+    }
+
+    .footer_nav {
+        width: 350px;
+        text-align: left;
+    }
+
+    .footer_nav li:nth-child(1) {
+        padding: 0;
+        width: 20%;
+    }
+
+    .footer_nav a {
+        font-size: 12px;
+    }
+
+    .footer_bot {
+        flex-direction: column;
+    }
+
+    .copy {
+        font-size: 14px;
+    }
+
+    .footer_right {
+        margin: 30px auto;
+    }
+    /* footer */
+
+    
+
+    /* text */
+
+    .hash h5 {
+        font-size: 16px;
+    }
+
+    .product {
+        font-size: 44px;
+        line-height: 34px;
+        margin-bottom: 35px;
+    }
+
+    .sub {
+        font-size: 26px;
+    }
+
+    .info {
+        font-size: 20px;
+        line-height: 16px;
+    }
+
+    .more h5 a {
+        height: 30px;
+        font-size: 16px;
+        color: #7d7d7d;
+    }
+
+    .mo {
+        display: block;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+  /* header */
+
+    /* sec_1 */
+
+    /* sec_2 */
+
+    /* sec_3 */
+
+    /* sec_4 */
+
+    /* sec_5 */
+
+    /* sec_6 */
+
+    /* footer */
