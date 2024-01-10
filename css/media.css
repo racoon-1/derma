@@ -54,17 +54,22 @@ header .header_gnb {
 
     .sec_2 .sec_2_mainbg {
         width: 100%;
-        height: 380px;
+        height: 530px;
         background-size: cover;
         background-position: -20px 0;
     }
 
-    .long {
+   /*  .long {
         width: 100%;
-        height: 380px;
+        height: 533px;
         background-size: cover;
         background-position: center;
     }
+
+    .long img {
+        width: 100%;
+        height: 100%;
+    } */
 
     .sec_2_text {
         margin-left: 10px;
@@ -87,7 +92,7 @@ header .header_gnb {
     }
 
     .sec_3_text {
-        top: 0%;
+        top: 5%;
         margin-left: 10px;
     }
     /* sec_3 */
@@ -101,6 +106,17 @@ header .header_gnb {
     .sec_4_text {
         margin-left: 10px;
         top: 8%;
+        margin-bottom: 100px;
+    }
+
+    .sec_4_mainbg {
+        width: 100%;
+        height: 530px;
+    }
+
+    .sec_4_mainbg img {
+        width: 100%;
+        height: 100%;
     }
     /* sec_4 */
 
@@ -189,7 +205,8 @@ header .header_gnb {
         left: 30px;
         bottom: 20px;
         opacity: 1;
-        color: #fff;
+        color: #1c1c1c;
+        font-weight: 600;
     }
     /* sec_6 */
 
